@@ -1,0 +1,35 @@
+example template football
+https://fc-united.axiomthemes.com/home-4/
+https://preview.themeforest.net/item/fc-united-football-soccer-wordpress-sports-theme/full_screen_preview/23390465
+https://www.pldashboard.com/tottenham-hotspur
+
+JIRA
+https://akantahu.atlassian.net/jira/software/projects/KAN/boards/1
+
+API Service
+https://www.api-football.com/documentation-v3#tag/Players/operation/get-players-topassists
+	(-) 100 req / day
+	(+) can custom league
+https://postman.sportmonks.com/#28640ac0-5295-48b9-8e64-b68acfb8a2b0
+	(-) free can danish league and scotlandia league
+	(+) all access free danish league and scotlandia league
+https://rapidapi.com/api-sports/api/api-football/playground/apiendpoint_ee8b9814-89ec-4b97-8bcf-84a4c260244d
+	(+) katanya free perlu tinjauan lebih lanjut
+https://www.football-data.org/documentation/quickstart
+	token: deef9335be064180aba3d5030b400c1e
+	(-) nda lengkap
+	(+) cocok buat stat
+	(+) 10 call / minute
+	
+Example Scrapt
+https://replit.com/@apir7/pl#main.py	
+Example The Product
+https://www.pldashboard.com/
+Example Flip Card
+https://www.w3schools.com/howto/howto_css_flip_card.asp
+
+Example Asset SVG
+https://backend.liverpoolfc.com/sites/default/files/2022-05/uefa_cup.svg
+
+animatescroll
+https://michalsnik.github.io/aos/
